@@ -1,0 +1,80 @@
+Question: 
+Why do you want to become an educator at A2SV?
+
+Answer: 
+As a G5 student, my time at A2SV has been an incredible journey. I’ve gained so much knowledge in data structures, algorithms, and communication skills, and I’ve grown through the collaborative environment. Working with my peers in pair programming, contests, and problem-solving sessions has been one of the most rewarding parts of my experience.
+
+I discovered my love for teaching while helping my friends who were new to problem-solving, especially February converts who often struggled more than others as they joined A2SV later. I spent time helping them understand the basics, working through tricky questions, and building their confidence. Seeing their transformation from struggling to solve simple problems to confidently tackling complex ones was truly inspiring. It taught me that the key to learning is believing in yourself, and I loved being part of that process.
+
+My passion for teaching also led me to form a club on campus called AASTU CPC, which focuses on competitive programming. The club is a space where students can collaborate, learn, and teach one another. As the president of the club, I’ve taken on the responsibility of leading and organizing activities to create an environment that helps members grow both technically and personally.
+
+Becoming an educator at A2SV is a way for me to give back to the community that has shaped me. I also want to be part of A2SV's mission to achieve great things in Africa by empowering students and creating opportunities that make a real difference across the continent.
+
+Question:
+Which position do you prefer the most(AAIT in-person, Remote ...)? Why do you choose this one over the others?
+
+Answer:
+I prefer the AASTU in-person Education Squad because I am a student at AASTU, and I feel connected to the community that has taught me so much. I want to give back by helping other students at AASTU grow and succeed. It’s important to me to be part of transforming AASTU’s students and inspiring them to reach their full potential.
+
+Question:
+Do you have any additional commitments that may affect your availability? if yes please specify, if not just respond with a No.
+
+Answer:
+No
+
+Question:
+What are your core values, and how do they align with the mission and values A2SV? Please provide specific examples.
+
+Answer:
+My core values are punctuality, leadership, responsibility, and fostering a positive work environment, all of which align with A2SV's mission to empower young African engineers and drive innovation.
+
+I am known for being punctual and managing my time effectively, which I believe is crucial for success. During the project phase, I led the G56 backend team, organizing daily meetings to promote responsibility and collaboration. I take responsibility for my tasks, ensuring that deadlines are met and that I contribute to the team’s success.
+
+Technically, I bring a strong foundation in problem-solving. As a 2nd place winner of the 2024 ICPC EtCPC, I have demonstrated my ability to solve complex problems under pressure. I’ve solved over 1,700 problems on platforms like Codeforces, LeetCode, and AtCoder, and participated in about 50 online contests. I have been top performer from my class representing my class in group contests. These experiences have honed my problem-solving skills, and I’m passionate about helping others develop these skills as well.
+
+Additionally, I believe in building an enjoyable and collaborative atmosphere. A positive environment fosters growth, and as part of A2SV, I am committed to nurturing a community where we can all learn, create, and innovate together.
+
+Question:
+What do you think A2SV's objectives should be? How will you orient your contributions towards those objectives?
+
+Answer:
+A2SV's objectives should include expanding to all of Africa, creating more opportunities for young people across the continent. This would help more students access world-class tech education and opportunities with global companies. Additionally, enhancing the quality of education is key to ensuring students are well-prepared for these opportunities.
+
+With my technical background and experience in teaching, I am well-suited to help A2SV achieve these goals. As the president of AASTU’s Competitive Programmers Club, I’ve developed leadership skills that will allow me to guide and inspire students while contributing to the growth of A2SV’s educational impact. I am excited to be part of this mission to expand A2SV’s reach and help more students across Africa succeed.
+
+Question:
+Have you held a position of leadership before? If so, please describe your role and responsibilities, and share what you learned from the experience. We would like to know the following:
+
+1. How long did you hold the position?
+2. What were your specific responsibilities and duties as a leader?
+3. What skills did you develop, or lessons did you learn from the experience?
+
+Answer:
+
+I’ve held leadership roles as the co-founder and president of AASTU CPC, a competitive programming club at my university, and as the leader of the backend team during the A2SV project phase. In both positions, I was responsible for organizing meetings, delegating tasks, and ensuring the team worked effectively together. I guided my team through problem-solving and created a collaborative environment where everyone felt supported and motivated to contribute.
+
+Through these experiences, I learned that leadership is not just about directing others, but about empowering team members, fostering ownership, and making sure everyone feels included. I developed key skills in communication, team management, and problem-solving. Most importantly, I realized that good leadership is about creating a positive atmosphere where everyone can learn, grow, and thrive together.
+
+Question:
+What are your thoughts on lecturing, and how do you think lectures should be delivered at A2SV?
+
+Answer:
+The current way A2SV delivers lectures is already very effective, but I believe there are ways to make it even more engaging and enriching for students. Problem-solving is not only enjoyable but more effective when students interact with the educator, so incorporating real-time discussions and problem-solving activities during lectures would be beneficial.
+
+Inviting lecturers from other universities can also make the learning experience more diverse and exciting. Hearing different perspectives will inspire students and encourage them to push their limits.
+
+Incorporating games into lectures, can make learning fun and help students retain information. Games allow concepts to be understood more clearly and remembered longer, which can make the process less intimidating.
+
+Additionally, offering online lectures from top universities like MIT or Harvard could bring world-class insights to A2SV students. This would further elevate the educational experience at A2SV and broaden students' knowledge.
+
+Question:
+
+Answer:
+I have previously held responsibilities at A2SV as the leader of the G56 backend team, where I was responsible for managing the team, organizing meetings, and guiding the team through technical challenges during the project phase. I also represented my class, G56, in group contests.
+
+Question:
+
+Answer:
+I would rate the importance of having a sense of purpose in my work as a 9. It’s crucial for me to feel that my efforts contribute to something meaningful. For instance, I co-founded and lead AASTU CPC to provide a space where students can collaborate, learn, and grow, helping others succeed in tech. This aligns with my passion for teaching and problem-solving.
+
+At A2SV, I focus on creating a supportive environment for my peers, whether by assisting with problem-solving or leading the backend team. My purpose of empowering others motivates me to contribute to A2SV’s mission of inspiring growth in Africa’s tech community.
