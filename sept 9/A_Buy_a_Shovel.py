@@ -1,0 +1,19 @@
+import sys
+from math import ceil, gcd, log2
+from collections import defaultdict, Counter, deque
+from bisect import bisect_left, bisect_right
+def II(): return int(sys.stdin.readline().strip())
+def IL(): return list(map(int, sys.stdin.readline().strip().split()))
+def S(): return sys.stdin.readline().strip()
+
+def solve():
+    k, r = IL()
+    i = 1
+    while True:
+        # print(int(str(k * i)[-1]))
+        if int(str(k * i)[-1]) == 0 or int(str(k * i)[-1]) == r:
+            print(i)
+            return
+        i += 1
+
+solve()

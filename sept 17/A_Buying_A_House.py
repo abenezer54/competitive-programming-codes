@@ -1,0 +1,25 @@
+import sys
+import math, heapq, random
+from collections import defaultdict, Counter, deque
+from bisect import bisect_left, bisect_right
+def II(): return int(sys.stdin.readline().strip())
+def IL(): return list(map(int, sys.stdin.readline().strip().split()))
+def S(): return sys.stdin.readline().strip()
+
+def solve():
+    n, m, k = IL()
+    a = IL()
+    d = float("inf")
+    ans = -1
+    for i in range(m, n):
+        if a[i] <= k and a[i] != 0:
+            cur = abs(i  + 1 - m ) 
+            # print(i, cur)
+            d = min(d, cur)
+    for i in range(m):
+        if a[i] <= k and a[i] != 0:
+            cur = abs(i  + 1 - m ) 
+            # print(i, cur)
+            d = min(d, cur)
+    print(d * 10)
+solve()

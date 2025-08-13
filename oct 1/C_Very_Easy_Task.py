@@ -1,0 +1,27 @@
+import sys
+import math, heapq, random
+from collections import defaultdict, Counter, deque
+from bisect import bisect_left, bisect_right
+def II(): return int(sys.stdin.readline().strip())
+def IL(): return list(map(int, sys.stdin.readline().strip().split()))
+def S(): return sys.stdin.readline().strip()
+
+def solve():
+    n, x, y = IL()
+    def check(mid):
+        if mid < min(x, y):
+            return False
+        mid -= min(x, y)
+        val = mid // x + mid // y
+        return val >= n - 1
+    
+    l, r = 0, int(1e10)
+    while l + 1 < r:
+        mid = (l + r) // 2
+        if check(mid):
+            r = mid
+        else:
+            l = mid
+    print(r)
+
+solve()
